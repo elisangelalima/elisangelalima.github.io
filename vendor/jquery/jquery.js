@@ -11,6 +11,18 @@
  *
  * Date: 2017-03-20T18:59Z
  */
+
+function hideAndShow(i) {
+    var x = document.getElementById("hide"+String(i));
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+
+
 ( function( global, factory ) {
 
 	"use strict";
