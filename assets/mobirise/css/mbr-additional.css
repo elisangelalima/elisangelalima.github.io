@@ -1787,73 +1787,201 @@ body {
     width: 100% !important;
   }
 }
-.cid-qIrR8H7M89 {
-  padding-top: 105px;
-  padding-bottom: 105px;
-  background-image: url("../../../assets/images/people-2604149-1281-1280x720.jpg");
+.cid-qJ0wdtVOgK {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #cccccc;
+  background: linear-gradient(0deg, #cccccc, #ffffff);
 }
-.cid-qIrR8H7M89 .mbr-section-text {
-  color: #ffffff;
-}
-.cid-qIrR8H7M89 .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-qIrR8H7M89 .tabcont {
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-qIrR8H7M89 .mbr-iconfont {
-  font-size: 48px;
-}
-.cid-qIrR8H7M89 .card-img {
-  margin-bottom: 1.5rem;
-}
-.cid-qIrR8H7M89 .tab-content-row {
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-qIrR8H7M89 .tab-content {
-  margin-top: 3rem;
-  width: 100%;
-}
-.cid-qIrR8H7M89 .nav-tabs {
+.cid-qJ0wdtVOgK .nav-tabs {
   -webkit-justify-content: center;
   justify-content: center;
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
   border-bottom: none;
 }
-.cid-qIrR8H7M89 .nav-tabs .nav-link {
+.cid-qJ0wdtVOgK .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #ffffff;
+  color: #232323;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
+  border: 1px solid #232323;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
-  transition: color .3s;
-  border: 2px solid #ffffff;
+  transition: all .5s;
 }
-.cid-qIrR8H7M89 .nav-tabs .nav-link:hover {
-  background: #f7ed4a;
+.cid-qJ0wdtVOgK .nav-tabs .nav-link:hover {
+  background-color: #149dcc;
 }
-.cid-qIrR8H7M89 .nav-tabs .nav-link.active {
-  color: #000000;
+.cid-qJ0wdtVOgK .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
   font-style: normal;
-  border: 2px solid #f7ed4a;
-  background: #f7ed4a;
+  border: none;
+  background: #149dcc;
 }
-.cid-qIrR8H7M89 .nav-tabs .nav-link.active:hover {
-  border: 2px solid #f7ed4a;
+.cid-qJ0wdtVOgK .nav-tabs .nav-link.active:hover {
+  border: none;
 }
-.cid-qIrR8H7M89 H2 {
+.cid-qJ0wdtVOgK p {
+  color: #232323;
+}
+.cid-qJ0wdtVOgK .mbr-text {
+  text-align: center;
+}
+.cid-qJ0wdtVOgK H2 {
+  text-align: center;
+}
+.cid-qJ0wyk7O2p {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #cccccc;
+}
+.cid-qJ0wyk7O2p .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-qJ0wyk7O2p .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #232323;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #232323;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: all .5s;
+}
+.cid-qJ0wyk7O2p .nav-tabs .nav-link:hover {
+  background-color: #1c9724;
+}
+.cid-qJ0wyk7O2p .nav-tabs .nav-link.active {
+  font-weight: 500;
   color: #ffffff;
+  font-style: normal;
+  border: none;
+  background: #1c9724;
 }
-.cid-qIrR8H7M89 B {
+.cid-qJ0wyk7O2p .nav-tabs .nav-link.active:hover {
+  border: none;
+}
+.cid-qJ0wyk7O2p p {
+  color: #232323;
+}
+.cid-qJ0wyk7O2p .mbr-text {
+  text-align: center;
+}
+.cid-qJ0wyk7O2p H2 {
+  text-align: center;
+}
+.cid-qJ0x35aT91 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #cccccc);
+}
+.cid-qJ0x35aT91 .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-qJ0x35aT91 .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #232323;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #232323;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: all .5s;
+}
+.cid-qJ0x35aT91 .nav-tabs .nav-link:hover {
+  background-color: #ff3366;
+}
+.cid-qJ0x35aT91 .nav-tabs .nav-link.active {
+  font-weight: 500;
   color: #ffffff;
+  font-style: normal;
+  border: none;
+  background: #ff3366;
 }
-.cid-qIrR8H7M89 H4 {
-  color: #efefef;
+.cid-qJ0x35aT91 .nav-tabs .nav-link.active:hover {
+  border: none;
+}
+.cid-qJ0x35aT91 p {
+  color: #232323;
+}
+.cid-qJ0x35aT91 .mbr-text {
+  text-align: center;
+}
+.cid-qJ0xU6qLIt {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qJ0xU6qLIt .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qJ0xU6qLIt .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qJ0xU6qLIt .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qJ0xU6qLIt .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qJ0xU6qLIt .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qJ0xU6qLIt .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qJ0xU6qLIt .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-qJ0xU6qLIt .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qJ0xU6qLIt .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-qIrS6fFs8a {
   padding-top: 90px;
@@ -1895,7 +2023,7 @@ body {
 .cid-qIrK5htD6F {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/general-pic-of-physio-3-1698x1131.jpg");
+  background-image: url("../../../assets/images/people-2604149-1281-1280x720.jpg");
 }
 .cid-qIrK5htD6F .mbr-iconfont {
   font-size: 48px;
