@@ -17,9 +17,9 @@ function initTabs(target) {
                 $(this).attr('id', componentID + '_tab' + $(this).index());
             });
 
-            //$tabsNavItem.each(function() {
-            //    $(this).find('a').attr('href', '#' + componentID + '_tab' + $(this).index());
-            //});
+            // $tabsNavItem.each(function() {
+            //     $(this).find('a').attr('href', '#' + componentID + '_tab' + $(this).index());
+            // });
         });
     }
 }
